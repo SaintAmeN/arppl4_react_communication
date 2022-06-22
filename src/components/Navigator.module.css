@@ -1,0 +1,41 @@
+.Navigator {
+    height: 48px;
+    background-color: darkblue;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.DoPrawej {
+    display: flex;
+    flex-direction: row-reverse;
+    height: 100%;
+    width: 50%;
+}
+
+.DoLewej {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 50%;
+}
+
+.ElementNaglowka {
+    display: flex;
+    flex-direction: row;
+    padding: 10px
+}
+
+.ElementNaglowka button{
+    width: 100px;
+    min-width: 65px;
+}
+
+.ElementNaglowka p {
+    margin: auto 0;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;
+}
