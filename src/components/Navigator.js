@@ -1,6 +1,7 @@
 import React from 'react';
 import classes from './Navigator.module.css';
 import logo from '../assets/logo.svg'
+import {Link} from "react-router-dom";
 
 const Navigator = () => {
     return (
@@ -15,13 +16,19 @@ const Navigator = () => {
             </div>
             <div className={classes.DoPrawej}>
                 <div className={classes.ElementNaglowka}>
-                    <button>Home</button>
+                    <Link to={"/"}>
+                        <button>Home</button>
+                    </Link>
                 </div>
                 <div className={classes.ElementNaglowka}>
-                    <button>Lista</button>
+                    <Link to={"/list"}>
+                        <button>Lista</button>
+                    </Link>
                 </div>
                 <div className={classes.ElementNaglowka}>
-                    <button>Formularz</button>
+                    <Link to={"/form"}>
+                        <button>Formularz</button>
+                    </Link>
                 </div>
             </div>
         </div>

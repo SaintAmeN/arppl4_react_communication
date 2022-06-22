@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6e3dd8-3013-42ac-8e46-f6ae7c8cb132" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FormPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FormPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HomePage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ListPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ListPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigator.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PageBody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PageBody.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ListPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ListPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ListPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ListPage.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigator.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/amen/WebstormProjects/arppl4_react_communication/src/components",
+    "last_opened_file_path": "/home/amen/Projects/gateway-service/react-ui",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
@@ -91,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655912565573</updated>
       <workItem from="1655912566857" duration="136000" />
-      <workItem from="1655912708570" duration="2264000" />
+      <workItem from="1655912708570" duration="7977000" />
     </task>
     <servers />
   </component>

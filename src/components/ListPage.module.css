@@ -1,3 +1,19 @@
 .ListPage {
+    padding: 10px;
 
+}
+.NaglowekTabeli{
+    border: 2px solid red;
+}
+.NaglowekTabeli div{
+    border: 1px solid red;
+}
+.TabelaRekordy{
+
+}
+.RekordTabeli{
+
+}
+.RekordTabeli div{
+    border: 1px solid darkgreen;
 }
